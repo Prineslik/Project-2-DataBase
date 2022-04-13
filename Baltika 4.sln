@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baltika 4", "Baltika 4\Baltika 4.csproj", "{5B6AC9BF-6D41-424B-BC60-99D6D4FF547D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B6AC9BF-6D41-424B-BC60-99D6D4FF547D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6AC9BF-6D41-424B-BC60-99D6D4FF547D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6AC9BF-6D41-424B-BC60-99D6D4FF547D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6AC9BF-6D41-424B-BC60-99D6D4FF547D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {769E3B5D-5C6D-4231-A9F3-5422EA0FE121}
+	EndGlobalSection
+EndGlobal

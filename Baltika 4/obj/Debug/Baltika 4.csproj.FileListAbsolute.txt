@@ -1,0 +1,56 @@
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\bin\Debug\Baltika 4.exe.config
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\bin\Debug\Baltika 4.exe
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\bin\Debug\Baltika 4.pdb
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika 4.csproj.AssemblyReference.cache
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Properties.Resources.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika 4.csproj.GenerateResource.cache
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika 4.csproj.CoreCompileInputs.cache
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika 4.exe
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika 4.pdb
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.MainForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.DeleteForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm1.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm2.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm3.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm4.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm5.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm6.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm7.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm1.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm2.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm3.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm4.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm5.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm6.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm7.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\bin\Debug\Baltika 4.exe.config
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\bin\Debug\Baltika 4.exe
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\bin\Debug\Baltika 4.pdb
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika 4.csproj.AssemblyReference.cache
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm1.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm2.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm3.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm4.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm5.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm6.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.AddForms.AddForm7.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.DeleteForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm1.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm2.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm3.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm4.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm5.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm6.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.UpdateForms.UpdateForm7.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.MainForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Properties.Resources.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika 4.csproj.GenerateResource.cache
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika 4.csproj.CoreCompileInputs.cache
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika 4.exe
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika 4.pdb
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.SearchForm.resources
+D:\4 курс\курсовой БД\Baltika 4\Baltika 4.2\Baltika 4\obj\Debug\Baltika_4.Forms.Report.resources
